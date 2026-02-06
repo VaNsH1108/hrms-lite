@@ -40,3 +40,38 @@ Auto calculation of total present days
 RESTful API architecture
 
 Cloud deployed full-stack project
+
+
+Project Structure
+hrms-lite/
+│
+├── backend/
+│   ├── models/
+│   ├── routes/
+│   ├── server.js
+│
+├── frontend/
+│   ├── src/
+│   ├── App.jsx
+│
+└── README.md
+
+🧠 Learning Outcomes
+
+Full-stack MERN development
+
+REST API design
+
+Database modeling with MongoDB
+
+Cloud deployment and CI/CD
+
+Frontend–Backend integration
+
+👨‍💻 Author
+
+Vansh Gupta
+B.Tech CSE (AI & ML)
+Final Year Project
+
+
