@@ -1,77 +1,80 @@
-HRMS Lite – Employee & Attendance Management System
-HRMS Lite is a lightweight Human Resource Management System designed to manage employees and track attendance efficiently. The application is built using a modern full-stack architecture and deployed on cloud platforms.
+# HRMS Lite – Employee & Attendance Management System
 
-🚀 Live Demo
+HRMS Lite is a lightweight Human Resource Management System designed to manage employees and track attendance efficiently.  
+The application is built using a modern full-stack architecture and deployed on cloud platforms.
 
-Frontend (Vercel):
-👉 https://hrms-lite.vercel.app
+---
 
-Backend API (Render):
-👉 https://hrms-lite-backend-xfip.onrender.com
+## 🚀 Live Demo
 
-🛠️ Tech Stack
-Frontend
-React (Vite)
-Axios
-CSS
+- **Frontend (Vercel):**  
+  👉 https://hrms-lite.vercel.app
 
-Backend
-Node.js
-Express.js
-MongoDB (Atlas)
-Mongoose
+- **Backend API (Render):**  
+  👉 https://hrms-lite-backend-xfip.onrender.com
 
-Deployment
-Frontend: Vercel
-Backend: Render
+---
 
-Database: MongoDB Atlas
+## 🛠️ Tech Stack
 
-✨ Features
+### Frontend
+- React (Vite)
+- Axios
+- CSS
 
-Add, view, and delete employees
+### Backend
+- Node.js
+- Express.js
+- MongoDB Atlas
+- Mongoose
 
-Mark attendance (Present / Absent)
+### Deployment
+- Frontend: Vercel  
+- Backend: Render  
+- Database: MongoDB Atlas
 
-View attendance history per employee
+---
 
-Auto calculation of total present days
+## ✨ Features
 
-RESTful API architecture
+- Add, view, and delete employees
+- Mark attendance (Present / Absent)
+- View attendance history per employee
+- Auto calculation of total present days
+- RESTful API architecture
+- Cloud-deployed full-stack project
 
-Cloud deployed full-stack project
+---
 
-
-Project Structure
+## 📁 Project Structure
 hrms-lite/
 │
 ├── backend/
-│   ├── models/
-│   ├── routes/
-│   ├── server.js
+│ ├── models/
+│ ├── routes/
+│ └── server.js
 │
 ├── frontend/
-│   ├── src/
-│   ├── App.jsx
+│ ├── src/
+│ └── App.jsx
 │
 └── README.md
 
-🧠 Learning Outcomes
 
-Full-stack MERN development
+---
 
-REST API design
+## 🧠 Learning Outcomes
 
-Database modeling with MongoDB
+- Full-stack MERN development
+- REST API design
+- Database modeling with MongoDB
+- Cloud deployment and CI/CD
+- Frontend–Backend integration
 
-Cloud deployment and CI/CD
+---
 
-Frontend–Backend integration
+## 👨‍💻 Author
 
-👨‍💻 Author
-
-Vansh Gupta
-B.Tech CSE 
-Final Year Project
-
+**Vansh Gupta**  
+B.Tech CSE – Final Year Project
 
