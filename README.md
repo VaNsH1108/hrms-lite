@@ -71,7 +71,7 @@ Frontend–Backend integration
 👨‍💻 Author
 
 Vansh Gupta
-B.Tech CSE (AI & ML)
+B.Tech CSE 
 Final Year Project
 
 
